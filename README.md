@@ -5,8 +5,9 @@ the temple bell rings, the doors open, and the invitation unfolds.
 
 **Demo (Ananya & Karthik):** https://choprakhushee.github.io/Temple-Gold/invites/ananya-weds-karthik/
 
-Status: the entry (lamp, bell and temple doors) is finished. The invitation
-sections are being built next. A full, plain-language guide comes with them.
+Status: the entry (lamp, bell and temple doors), the courtyard, the couple,
+the families, the muhurtham countdown, the events and the closing blessing are
+done. RSVP, Our Story and the gallery come next, with a full plain-language guide.
 
 ## How it's organised
 
